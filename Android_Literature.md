@@ -2,7 +2,7 @@
 
 ## Machine Learning
 ### Survey - overview for malware techniques
-* 💗 Science Direct, Asma Razgallah 📖 A survey of malware detection in Android apps: Recommendations and perspectives for future research [pdf](https://sci-hub.ru/10.1016/j.cosrev.2020.100358)
+* 💗 Science Direct - Asma Razgallah et al. 📖 A survey of malware detection in Android apps: Recommendations and perspectives for future research [pdf](https://sci-hub.ru/10.1016/j.cosrev.2020.100358)
 
 ### Static analysis
 
