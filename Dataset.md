@@ -4,7 +4,7 @@
 ## [DREBIN](https://www.sec.tu-bs.de/~danarp/drebin/)
 [Paper available](https://www.sec.cs.tu-bs.de/pubs/2014-ndss.pdf)
 
-## [Repackaged apps](https://github.com/serval-snt-uni-lu/RePack)
+## [RePack](https://github.com/serval-snt-uni-lu/RePack) for repackaged apps
 
 ## Biased dataset?
 
