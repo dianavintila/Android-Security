@@ -7,6 +7,7 @@
 ### Repackaging apps
 
 ### Malware collusion
+* VB2016 - Dr Jorge Blasco et al. 📖 Wild Android collusions [pdf](https://www.virusbulletin.com/uploads/pdf/magazine/2016/VB2016-Blasco-etal.pdf)
 
 ### Static analysis
 
