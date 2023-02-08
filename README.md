@@ -8,7 +8,7 @@ Read this [README](Literature.md)
   Easy! Use [Sci-hub](https://sci-hub.ru/) where you search after DOI of the paper.
   
 ### 👀 Looking for code of the paper?
-Check [paperswithcode](https://paperswithcode.com/)
+Check [paperswithcode](https://paperswithcode.com/) site :)
   
 ## Android Datasets 📊
 
