@@ -1,5 +1,6 @@
 # Android  Security
-Hi there! This is a repository under construction related to Android Security :).
+Hi there! This is a repository under construction related to Android Security :)
+
 ## Android Literature 📖
 Read this [README](Android_Literature.md)
 
