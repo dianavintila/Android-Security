@@ -1,21 +1,11 @@
-# 🌶️ HOT PAPERS: Android malware detection
-
-## Machine Learning
-### Survey - overview for malware techniques
-* 💗 Science Direct - Asma Razgallah et al. 📖 A survey of malware detection in Android apps: Recommendations and perspectives for future research [pdf](https://sci-hub.ru/10.1016/j.cosrev.2020.100358)
-
-### Repackaging apps
-
-### Malware collusion
-* VB2016 - Dr Jorge Blasco et al. 📖 Wild Android collusions [pdf](https://www.virusbulletin.com/uploads/pdf/magazine/2016/VB2016-Blasco-etal.pdf)
-
-### Static analysis
-
-### Dynamic analysis
+# Android Dataset
 
 
-## New vulnerabilities & Attacks
+## [DREBIN](https://www.sec.tu-bs.de/~danarp/drebin/)
+[Paper available](https://www.sec.cs.tu-bs.de/pubs/2014-ndss.pdf)
 
+## [RePack](https://github.com/serval-snt-uni-lu/RePack) for repackaged apps
 
-## Android malware families
+## Biased dataset?
 
+Check this paper: [Debiasing Android Malware Datasets: How can I trust your results if your dataset is biased?](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9787514) with this [repo](https://gitlab.inria.fr/cidre-public/dada)
