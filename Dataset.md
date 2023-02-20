@@ -6,6 +6,9 @@
 
 ### [RePack](https://github.com/serval-snt-uni-lu/RePack) for repackaged apps
 
+### Dataset of ["A Comparative Study of Android Repackaged Apps
+Detection Techniques"](https://github.com/MIchicho/Repackaged-APPs-detection)
+
 ### [AndroMalPack - Dataset](https://github.com/hasnainrafique/AndroMalPack-Dataset) is the dataset for this [paper](https://www.nature.com/articles/s41598-022-23766-w)
 
 ## Biased dataset?
