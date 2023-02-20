@@ -1,15 +1,14 @@
 # Android Dataset
 
 
-### [DREBIN](https://www.sec.tu-bs.de/~danarp/drebin/)
+### 📰 [DREBIN](https://www.sec.tu-bs.de/~danarp/drebin/)
 [Paper available](https://www.sec.cs.tu-bs.de/pubs/2014-ndss.pdf)
 
-### [RePack](https://github.com/serval-snt-uni-lu/RePack) for repackaged apps
+### 📰 [RePack](https://github.com/serval-snt-uni-lu/RePack) for repackaged apps
 
-### Dataset of ["A Comparative Study of Android Repackaged Apps
-Detection Techniques"](https://github.com/MIchicho/Repackaged-APPs-detection)
+### 📰 [Dataset](https://github.com/MIchicho/Repackaged-APPs-detection) of ["A Comparative Study of Android Repackaged Apps Detection Techniques"](https://ieeexplore.ieee.org/abstract/document/8667975)
 
-### [AndroMalPack - Dataset](https://github.com/hasnainrafique/AndroMalPack-Dataset) is the dataset for this [paper](https://www.nature.com/articles/s41598-022-23766-w)
+### 📰 [AndroMalPack - Dataset](https://github.com/hasnainrafique/AndroMalPack-Dataset) is the dataset for this [paper](https://www.nature.com/articles/s41598-022-23766-w)
 
 ## Biased dataset?
 
