@@ -20,3 +20,7 @@
 Sources: [Locality Sensitive Hashing (LSH): The Illustrated Guide](https://www.pinecone.io/learn/locality-sensitive-hashing/)
 
 ## Vantage-point tree
+
+## Edit distance
+
+## Manhattan distance
