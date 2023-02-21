@@ -24,3 +24,5 @@ Sources: [Locality Sensitive Hashing (LSH): The Illustrated Guide](https://www.p
 ## Edit distance
 
 ## Manhattan distance
+
+## VF2 Algorithm
