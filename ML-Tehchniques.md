@@ -29,3 +29,4 @@ Sources: [Locality Sensitive Hashing (LSH): The Illustrated Guide](https://www.p
 
 Check resources:
 * [Machine Learning for Cybersecurity 101](https://towardsdatascience.com/machine-learning-for-cybersecurity-101-7822b802790b)
+* [AI Security and Adversarial Machine Learning 101](https://towardsdatascience.com/ai-and-ml-security-101-6af8026675ff)
