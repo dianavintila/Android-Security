@@ -25,9 +25,12 @@ Sources: [Locality Sensitive Hashing (LSH): The Illustrated Guide](https://www.p
 
 ## Manhattan distance
 
-## VF2 Algorithm
-
 ## Subgraph isomorphism problem
+
+
+### VF2 Algorithm
+
+
 
 Check resources:
 * [Machine Learning for Cybersecurity 101](https://towardsdatascience.com/machine-learning-for-cybersecurity-101-7822b802790b)
