@@ -18,3 +18,5 @@
 
 ## Locality Sensitive Hashing (LSH)
 Sources: [Locality Sensitive Hashing (LSH): The Illustrated Guide](https://www.pinecone.io/learn/locality-sensitive-hashing/)
+
+## Vantage-point tree
