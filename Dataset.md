@@ -13,6 +13,9 @@
 
 ### 📰 [Dataset](https://github.com/MIchicho/Repackaged-APPs-detection) of ["A Comparative Study of Android Repackaged Apps Detection Techniques"](https://ieeexplore.ieee.org/abstract/document/8667975)
 
+##  Reflection, inter component comunication ...
+### 📰 [DroidBench 2.0](https://github.com/secure-software-engineering/DroidBench) 
+
 
 ### 📰 [AndroMalPack - Dataset](https://github.com/hasnainrafique/AndroMalPack-Dataset) is the dataset for this [paper](https://www.nature.com/articles/s41598-022-23766-w)
 
