@@ -10,6 +10,9 @@
 ### Malware collusion
 * VB2016 - Dr Jorge Blasco et al. 📖 Wild Android collusions  [ONLINE](https://www.virusbulletin.com/uploads/pdf/magazine/2016/VB2016-Blasco-etal.pdf)
 
+### Reflection
+*  Jyoti Gajrani et a. 📖 POSTER: Detection of Information Leaks via Reflection in Android Apps [ONLINE](http://library.usc.edu.ph/ACM/SIGSAC%202017/asiaccs/p911.pdf)
+
 ### Static analysis
 
 ### Dynamic analysis
