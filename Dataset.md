@@ -7,6 +7,8 @@
 
 ### 📰 [MalDroid](https://www.unb.ca/cic/datasets/maldroid-2020.html)
 
+### 📰 [DroidLeaks](https://zenodo.org/record/2589909#.ZAfgYnZByMo)
+
 ## Repackaged apps
 
 ### 📰 [RePack](https://github.com/serval-snt-uni-lu/RePack) for repackaged apps
